@@ -15,7 +15,7 @@ In this task, we have to plot bounding boxes for pneumonia in a single chest X-r
 
 ### Results:
 1.) Classification
-![Alt Text](https://github.com/cemanuel/Weakly-Supervised-Pneumonia-Localization/blob/master/classification_accuracies.png)
+![Alt Text](https://github.com/cemanuel/Weakly-Supervised-Pneumonia-Localization/blob/master/classification_accuracies.png=100x20)
 
 2.) Localization
 ![Alt Text](https://github.com/cemanuel/Weakly-Supervised-Pneumonia-Localization/blob/master/iou_scores.png)
