@@ -22,9 +22,9 @@ Sample Localization Predictions (Blue Boundaries are Predictions and Red Boundar
 
 
 ### Discussion
-1.) 
-2.) 
-3.) 
+1.) Based on our result, we have shown that our weakly supervised method is able to localize Pneumonia just as well as a supervised method. 
+2.) e predict that our model can perform even better if we have the computing power to train our model on the full images, as a lot of information are lost during compression. We also expect improvements by including more training data or transferring learned models from similar works, such was ChestXNet. 
+3.) If improved to human level performance, our weakly supervised model can not only automate pneumonia location annotation and classification tasks, but can also be used to localize other diseases. 
 
 
 
