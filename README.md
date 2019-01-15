@@ -14,12 +14,17 @@ In this task, we have to plot bounding boxes for pneumonia in a single chest X-r
 4) Plot the bounding box on each cluster.
 
 ### Results:
-1.) Classification
 <img src="https://github.com/cemanuel/Weakly-Supervised-Pneumonia-Localization/blob/master/classification_accuracies.png" width="300" height="150">
-2.) Localization
 <img src="https://github.com/cemanuel/Weakly-Supervised-Pneumonia-Localization/blob/master/iou_scores.png" width="300" height="150">
 
+Sample Localization Predictions (Blue Boundaries are Predictions and Red Boundaries are Ground Truth:
+![Alt Text](https://github.com/cemanuel/Weakly-Supervised-Pneumonia-Localization/blob/master/predictions.png)
+
+
 ### Discussion
+1.) 
+2.) 
+3.) 
 
 
 
